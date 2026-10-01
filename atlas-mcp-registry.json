@@ -1,10 +1,10 @@
 {
-  "name": "Atlas MCP Registry",
   "servers": [
     {
       "name": "atlas-control-mcp2",
       "description": "Atlas AI-directologist tools for Yandex Direct analysis and automation.",
-      "url": "https://db89ckfrb90n16ceqkjl.6q7pzfrg.mcpgw.serverless.yandexcloud.net/mcp"
+      "url": "https://db89ckfrb90n16ceqkjl.6q7pzfrg.mcpgw.serverless.yandexcloud.net/mcp",
+      "transport": "streamable-http"
     }
   ]
 }
